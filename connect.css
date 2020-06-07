@@ -1,0 +1,45 @@
+.fa {
+	margin:20px;
+	padding: 5px;
+
+}
+.fa-facebook{
+	background-color:#3b5998; 
+	color:white;
+	
+}
+.fa-linkedin {
+	background-color:#3f729b;
+	color:white;
+}
+.fa-github {
+	background-color:black;
+	color:white;
+	margin: 10px;
+	padding: 5px;
+}
+i {
+	font-size: 30px;
+
+}
+h2 {
+	text-align: center;
+	text-decoration: underline;
+	color: blue;
+	
+}
+h3 {
+	text-align:justify;
+	color:black;
+	text-decoration: underline;
+	text-decoration-line:solid;
+	margin:10px;
+	padding:3px;
+}
+p {
+	text-align: justify-all;
+	color;grey;
+}
+b {
+	font-size: 20px;
+}
